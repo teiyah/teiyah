@@ -1,5 +1,5 @@
 - 👋 Hey! I’m @teiyah
-- 👀 I’m interested in developing apps
+- 👀 I’m interested in developing apps and websites
 - 🌱 Currently learning JavaScript
 - 📫 I can be reached via email @ teiyah.designer@gmail.com
 - 🥂 Would love to collaborate on your projects and help out!
